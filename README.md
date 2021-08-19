@@ -8,8 +8,8 @@
 
 - 西安某高中生，现读高一 
 - 自由的程序猿
-- 💬 QQ邮箱，欢迎一起讨论学习：[3394543809@qq.com](mailto:3394543809@qq.com)
-- ⭐ 博客：[qlad.gitee.io](https://qlad.gitee.io)
+- 💬 邮箱，欢迎一起讨论学习：[qlad.meteor.studio@gmail.com](mailto:qlad.meteor.studio@gmail.com)
+- ⭐ 博客：[blog.qlad.top](https://blog.qlad.top)
 
 
 
@@ -36,4 +36,4 @@
 > ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
 
 
-⭐️ From [qlAD](https://github.com/qlAD)
+⭐️ From [qlAD](https://qlad.top)
