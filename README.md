@@ -1,12 +1,10 @@
 ## 一行代码创造世界 👋
 
-![](http://antzuhl.cn:4000/get/@qlAD.readme)
-
 ---
 
-### I'm Meteor
+### I'm qlAD
 
-- 西安某高中生，现读高一 
+- 汉中某高中生，现读高二
 - 自由的程序猿
 - 💬 邮箱，欢迎一起讨论学习：[qlad.meteor.studio@gmail.com](mailto:qlad.meteor.studio@gmail.com)
 - ⭐ 博客：[blog.qlad.top](https://blog.qlad.top)
@@ -33,7 +31,7 @@
 
 [![qlAD's github stats](https://github-readme-stats.vercel.app/api?username=qlAD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-> ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
+> ***做技术的极客心态加上开放共进的态度是成长和越过高山幽谷的秘籍 😊***
 
 
 ⭐️ From [qlAD](https://qlad.top)
